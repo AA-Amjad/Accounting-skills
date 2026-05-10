@@ -296,6 +296,6 @@ MIT
 ---
 
 <p align="center">
-  <sub>Built for <strong>Hazli Johar & Co.</strong> Chartered Accountants (NF1932)</sub><br>
+  <sub>Built for <strong>Amjad & Hazli</strong> Chartered Accountants (NF3206)</sub><br>
   <sub>Designed for Claude Code &bull; Works with Claude Opus, Sonnet & Haiku</sub>
 </p>
